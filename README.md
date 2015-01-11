@@ -1,3 +1,3 @@
 # landing
 
-factorywebdesign.github.io/landing
+http://factorywebdesign.github.io/landing
